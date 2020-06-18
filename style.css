@@ -114,6 +114,7 @@ a:hover {
 .hero-section .dancing{
 	letter-spacing: 1px;
 	color: #ffeba7;
+	opacity: 0.75;
 	font-size: 25px;
 	line-height: 1;
 	font-weight: 700;
@@ -226,7 +227,7 @@ body.about-on .about-section {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 36px 36px;
-	background-image: url('http://www.ivang-design.com/svg-load/portfolio/close.svg');
+	background-image: url('https://www.ivang-design.com/svg-load/portfolio/close.svg');
 	cursor: pointer;
 	z-index: 11;
 }
@@ -315,7 +316,7 @@ body.contact-on .contact-section {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 36px 36px;
-	background-image: url('http://www.ivang-design.com/svg-load/portfolio/close.svg');
+	background-image: url('https://www.ivang-design.com/svg-load/portfolio/close.svg');
 	cursor: pointer;
 	z-index: 11;
 }
@@ -382,7 +383,7 @@ body.contact-on .contact-section {
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: 36px 36px;
-	background-image: url('http://www.ivang-design.com/svg-load/portfolio/close.svg');
+	background-image: url('https://www.ivang-design.com/svg-load/portfolio/close.svg');
 	cursor: pointer;
 	z-index: 11;
 }
