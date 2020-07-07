@@ -82,7 +82,7 @@ a:hover {
 ================================================== */
 
 .hero-section {
-    position: fixed;
+    position: relative;
 	width: 100%;
 	display: block;
 	overflow: hidden;

@@ -1,11 +1,4 @@
 /* Please ❤ this if you like it! */
-var fixed = document.getElementById('fixed');
-
-fixed.addEventListener('touchmove', function(e) {
-
-        e.preventDefault();
-
-}, false);
 
 (function($) { "use strict";
 	
