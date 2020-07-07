@@ -80,7 +80,4 @@
 		$("body").removeClass("nature-on");
 	});
 	
-	$('body').on('touchmove', function (event) {
-		event.preventDefault();
-	});
 })(jQuery);
