@@ -87,7 +87,7 @@ a:hover {
 	display: block;
 	overflow: hidden;
 	height: 100vh;
-	background-image: url('https://assets.codepen.io/1462889/photo.jpeg');
+	background-image: url('imgs/bg/bgimage.jpeg');
 	background-size: cover;
 	background-position: center;
 	transform: scale(1) rotateX(0);
